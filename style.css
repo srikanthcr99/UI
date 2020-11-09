@@ -220,7 +220,7 @@ img {
 	width: fit-content;
 	font-size: 3.5rem;
 	position: relative;
-	color: transparent;
+	color: moccasin;
 }
 #hero h1 span {
 	position: absolute;
@@ -228,9 +228,6 @@ img {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color:  #4DA8DA;
-	animation: text_reveal_box 1s ease;
-	animation-delay: .5s;
 }
 
 /* End Hero Section */
@@ -479,8 +476,8 @@ img {
 
 }
 #contact .contact-item:hover {
-	box-shadow: 0px 0px 25px crimson;
-	transition: .3s ease box-shadow;
+	box-shadow: 0px 0px 13px indianred;
+	transition: .2s ease box-shadow;
 }
 #contact .icon {
 	width: 70px;
